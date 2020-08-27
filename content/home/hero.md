@@ -38,15 +38,15 @@ hero_media = "book.svg"
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
-[cta]
-  url = "docs/"
-  label = "See documentation"
-  icon_pack = "fas"
-  icon = "download"
+#[cta]
+#  url = "docs/"
+#  label = "See documentation"
+#  icon_pack = "fas"
+#  icon = "download"
   
-[cta_alt]
-  url = "https://sanjeeb.name.np/"
-  label = "for other matters visit my personal site"
+#[cta_alt]
+#  url = "docs/"
+#  label = "for other matters visit my personal site"
 
 # Note. An optional note to show underneath the links.
 #[cta_note]
