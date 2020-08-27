@@ -8,7 +8,6 @@ weight = 10  # Order that this section will appear.
 
 
 title = "Sanjeeb Bhattarai"
-documentation site.
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
 hero_media = "book.svg"
 
