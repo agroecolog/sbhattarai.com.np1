@@ -18,19 +18,19 @@ subtitle = "Document _anything_ ✨"
   icon = "book-open"
   icon_pack = "fas"
   name = "Project Documentation"
-  description = "For users"
+  description = "For partners and collaborators"
   
 [[feature]]
   icon = "question"
   icon_pack = "fas"
   name = "Knowledge Base"
-  description = "For teams"  
+  description = "For resource persons"  
   
 [[feature]]
   icon = "list-alt"
   icon_pack = "fas"
-  name = "Personal Notebook"
-  description = "For yourself"
+  name = "References"
+  description = "For record and dissimination"
 
 # Uncomment to use emoji icons.
 # [[feature]]
