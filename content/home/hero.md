@@ -45,7 +45,7 @@ hero_media = "book.svg"
   
 #[cta_alt]
 #  url = "docs/"
-#  label = "for other matters visit my personal site"
+#  label = ""
 
 # Note. An optional note to show underneath the links.
 #[cta_note]
