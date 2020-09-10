@@ -7,7 +7,7 @@ weight = 30  # Order that this section will appear.
 
 
 
-title = "For other matters"
+title = ""
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
 hero_media = "book.svg"
 
