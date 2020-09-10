@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
 title = "Documentation site"
-subtitle = "_of_ (**Sanjeeb Bhattarai**)[https://www.sanjeeb.name.np/]"
+subtitle = "_of_ [**Sanjeeb Bhattarai**](https://www.sanjeeb.name.np/)"
 
 # Showcase features.
 # 
